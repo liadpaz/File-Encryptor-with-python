@@ -1,0 +1,10 @@
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\bin\Release\FileEncryptorWithPython.exe.config
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\bin\Release\FileEncryptorWithPython.exe
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\bin\Release\FileEncryptorWithPython.pdb
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.Properties.Resources.resources
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.csproj.GenerateResource.cache
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.csproj.CoreCompileInputs.cache
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.exe
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.pdb
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.Form1.resources
+C:\Users\Liad\source\repos\FileEncryptorWithPython\FileEncryptorWithPython\obj\Release\FileEncryptorWithPython.csprojAssemblyReference.cache
